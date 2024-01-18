@@ -31,7 +31,7 @@ Linguagem de Marcação de Hypertexto (HTML - Hypertext Markup Language) é o c�
 
 ### [CSS básico](/pt-BR/docs/Aprender/Getting_started_with_the_web/CSS_basico)
 
-Folhas de Estilo em Cascata (CSS - Cascading Stylesheets) é o código que você usa para dar estilo ao seu site. Por exemplo, você quer que seu texto seja preto ou vermelho? Onde o conteúdo deve aparecer na tela? Quais imagens ou cores de fundo devem ser usadas para decorar seu site? [CSS básico](/pt-BR/docs/Aprender/Getting_started_with_the_web/CSS_basico) provê o necessário para você começar.
+Folhas de Estilo  Cascata (CSS - Cascading Stylesheets) é o código que você usa para dar estilo ao seu site. Por exemplo, você quer que seu texto seja preto ou vermelho? Onde o conteúdo deve aparecer na tela? Quais imagens ou cores de fundo devem ser usadas para decorar seu site? [CSS básico](/pt-BR/docs/Aprender/Getting_started_with_the_web/CSS_basico) provê o necessário para você começar.
 
 ### [JavaScript básico](/pt-BR/docs/Aprender/Getting_started_with_the_web/JavaScript_basico)
 
